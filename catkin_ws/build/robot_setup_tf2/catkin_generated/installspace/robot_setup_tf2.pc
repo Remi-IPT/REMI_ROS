@@ -1,0 +1,8 @@
+prefix=/home/indigo/catkin_ws/install
+
+Name: robot_setup_tf2
+Description: Description of robot_setup_tf2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/indigo/catkin_ws/install/lib 
+Requires: 
